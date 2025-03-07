@@ -20,7 +20,7 @@ This is a **Spring Boot** project which allows users to track their expenses.
 
 ✅Calculate sum of all expenses between two dates
 
-##In this project, I implemented 
+## In this project, I implemented 
 
 -> user authenticatoin(login and register) using **Spring Security**.
 
