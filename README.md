@@ -1,11 +1,15 @@
 # MakeItCount-Track_Your_Expenses
-# What is this application?
+## What is this application?
 This is a **Spring Boot** project which allows users to track their expenses.
 ## 🚀 Features
 ✅Register and login
+
 ✅Add Expenses
+
 ✅Delete Expense
+
 ✅Update Expense
+
 ✅View all Expenses
 ✅View expenses in a month
 ✅Calculate sum of all expenses
