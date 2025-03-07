@@ -1,7 +1,7 @@
 # MakeItCount-Track_Your_Expenses
 ## What is this application?
 This is a **Spring Boot** project which allows users to track their expenses.
-##  🚀 Features
+## 🚀 Features
 ✅Register and login
 
 ✅Add Expenses
@@ -33,7 +33,7 @@ This is a **Spring Boot** project which allows users to track their expenses.
 -> MySQL database is used to store all data(Users table, Expenses table)
 
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Spring Boot (REST API)
 
